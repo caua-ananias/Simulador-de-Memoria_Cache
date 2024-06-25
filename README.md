@@ -61,8 +61,10 @@ Exemplo de Arquivo de Endereços (addresses.txt):
 
 ## 6.Visualizando Estatísticas e Saindo
 
-### Prepare os Arquivos de Endereço Antecipadamente: Para facilitar os testes, prepare arquivos de endereços com antecedência, especialmente se planeja realizar múltiplas simulações.
-### Entenda os Resultados: Familiarize-se com o significado de "hit" e "miss" na cache para melhor interpretar os resultados e entender o desempenho da simulação.
+### Prepare os Arquivos de Endereço Antecipadamente: 
+  Para facilitar os testes, prepare arquivos de endereços com antecedência, especialmente se planeja realizar múltiplas simulações.
+### Entenda os Resultados: 
+  Familiarize-se com o significado de "hit" e "miss" na cache para melhor interpretar os resultados e entender o desempenho da simulação.
 
 ## Exemplo de Execução
 ```
