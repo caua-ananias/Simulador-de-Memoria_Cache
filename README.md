@@ -4,7 +4,7 @@ Este projeto implementa um simulador de memória cache que permite configurar e 
 
 ## Instruções!!
 
-##1. Preparação do Arquivo de Configuração
+### 1. Preparação do Arquivo de Configuração
 
 Antes de iniciar o programa, prepare um arquivo de texto que contenha as configurações iniciais da simulação. O arquivo deve ter os seguintes parâmetros, cada um em uma nova linha:
 
@@ -64,7 +64,7 @@ Exemplo de Arquivo de Endereços (addresses.txt):
 ###Prepare os Arquivos de Endereço Antecipadamente: Para facilitar os testes, prepare arquivos de endereços com antecedência, especialmente se planeja realizar múltiplas simulações.
 ###Entenda os Resultados: Familiarize-se com o significado de "hit" e "miss" na cache para melhor interpretar os resultados e entender o desempenho da simulação.
 
-##Exemplo de Execução
+## Exemplo de Execução
 ```
 $ ./cache_simulator
 Digite o nome do arquivo de entrada: config.txt
