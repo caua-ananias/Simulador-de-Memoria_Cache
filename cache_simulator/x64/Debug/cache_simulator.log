@@ -1,0 +1,6 @@
+﻿  cache_simulator.cpp
+C:\Users\cauaa\OneDrive\Documentos\Study\C-Codes\trabaio123\cache_simulator\cache_simulator\cache_simulator.cpp(56,11): warning C4244: 'inicializando': conversão de 'double' para 'int', possível perda de dados
+C:\Users\cauaa\OneDrive\Documentos\Study\C-Codes\trabaio123\cache_simulator\cache_simulator\cache_simulator.cpp(57,11): warning C4244: 'inicializando': conversão de 'double' para 'int', possível perda de dados
+C:\Users\cauaa\OneDrive\Documentos\Study\C-Codes\trabaio123\cache_simulator\cache_simulator\cache_simulator.cpp(58,11): warning C4244: 'inicializando': conversão de 'double' para 'int', possível perda de dados
+C:\Users\cauaa\OneDrive\Documentos\Study\C-Codes\trabaio123\cache_simulator\cache_simulator\cache_simulator.cpp(62,15): warning C4244: 'argumento': conversão de 'time_t' para 'unsigned int', possível perda de dados
+  cache_simulator.vcxproj -> C:\Users\cauaa\OneDrive\Documentos\Study\C-Codes\trabaio123\cache_simulator\x64\Debug\cache_simulator.exe
