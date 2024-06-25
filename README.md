@@ -4,7 +4,7 @@ Este projeto implementa um simulador de memória cache que permite configurar e 
 
 ## Instruções!!
 
-###1. Preparação do Arquivo de Configuração
+##1. Preparação do Arquivo de Configuração
 
 Antes de iniciar o programa, prepare um arquivo de texto que contenha as configurações iniciais da simulação. O arquivo deve ter os seguintes parâmetros, cada um em uma nova linha:
 
@@ -13,7 +13,7 @@ Palavras por Bloco: O número de palavras que cada bloco de memória contém.
 Tamanho da Cache (KB): O tamanho total da cache em kilobytes.
 Linhas por Conjunto: O número de linhas (ou blocos) em cada conjunto da cache.
 
-### Exemplo de Arquivo de Configuração (config.txt):
+## Exemplo de Arquivo de Configuração (config.txt):
 
 ```
 256
